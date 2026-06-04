@@ -1,0 +1,432 @@
+DESENVOLVA UM SITE COMPLETO, MODERNO, RESPONSIVO E PROFISSIONAL PARA O SALÃO NI HAIR.
+
+OBJETIVO DO PROJETO
+
+Criar um site premium para um salão de beleza com mais de 20 anos de tradição, focado principalmente em captação de clientes através do WhatsApp, fortalecimento da marca, exibição dos serviços, apresentação dos trabalhos realizados e aumento da credibilidade da empresa.
+
+O projeto NÃO deve utilizar APIs externas, banco de dados, autenticação, login, cadastro de usuários, painel administrativo, sistema de reservas ou qualquer funcionalidade que exija manutenção constante.
+
+O site deve ser totalmente estático, otimizado para publicação em GitHub e Vercel, garantindo máxima estabilidade, rapidez e facilidade de manutenção.
+
+TECNOLOGIAS
+
+Utilizar:
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
+
+O código deve ser limpo, organizado e preparado para futuras atualizações.
+
+IDENTIDADE VISUAL
+
+A identidade visual deve transmitir:
+
+* Sofisticação
+* Elegância
+* Feminilidade
+* Confiança
+* Modernidade
+* Acolhimento
+* Profissionalismo
+
+Evitar aparência genérica.
+
+O visual deve lembrar salões premium especializados em transformação capilar.
+
+Utilizar animações suaves e modernas.
+
+As transições devem ser discretas e elegantes.
+
+RESPONSIVIDADE
+
+O site deve funcionar perfeitamente em:
+
+* Smartphones
+* Tablets
+* Notebooks
+* Computadores
+
+Priorizar a experiência mobile.
+
+INFORMAÇÕES DA EMPRESA
+
+Nome:
+
+Salão Ni Hair
+
+Slogan:
+
+Despertando sua melhor versão e elevando o poder das mulheres.
+
+Experiência:
+
+Mais de 20 anos de mercado.
+
+WhatsApp:
+
++55 41 99958-8082
+
+Instagram:
+
+@salaonihair
+
+Endereço:
+
+Av. Edo Puhl, 9702
+Balneário Shangri-lá
+Pontal do Paraná - PR
+CEP 83255-000
+
+Horários:
+
+Segunda-feira: Fechado
+
+Terça-feira:
+09:00 às 19:00
+
+Quarta-feira:
+09:00 às 19:00
+
+Quinta-feira:
+09:00 às 19:00
+
+Sexta-feira:
+09:00 às 19:00
+
+Sábado:
+09:00 às 19:00
+
+Domingo:
+Fechado
+
+SERVIÇOS PRINCIPAIS
+
+Especialidade Principal:
+
+* Loiros
+* Mechas
+* Luzes Personalizadas
+
+Outros Serviços:
+
+* Coloração
+* Selagem Capilar
+* Tratamentos Reconstrutores
+* Cortes Femininos
+* Escovas
+* Design de Sobrancelhas
+* Henna
+* Manicure
+* Pedicure
+
+DIFERENCIAIS
+
+* Mais de 20 anos de experiência
+* Atendimento personalizado
+* Ambiente acolhedor
+* Equipe especializada
+* Técnicas atualizadas
+* Especialistas em loiros
+* Wi-Fi gratuito
+* Ambiente familiar
+* Espaço preparado para crianças
+* Acessibilidade completa
+* Atendimento com hora marcada
+
+ESTRUTURA DO SITE
+
+=========================
+SEÇÃO 1 - HERO
+==============
+
+Primeira tela impactante.
+
+Imagem de fundo ocupando toda a largura da tela.
+
+Título principal:
+
+Especialistas em Loiros, Mechas e Transformação Capilar
+
+Subtítulo:
+
+Mais de 20 anos despertando a melhor versão de cada mulher em Pontal do Paraná.
+
+Botões:
+
+Agendar pelo WhatsApp
+
+Conhecer Serviços
+
+Adicionar animações suaves de entrada.
+
+=========================
+SEÇÃO 2 - SOBRE NÓS
+===================
+
+Apresentar a história da empresa.
+
+Texto institucional destacando:
+
+* mais de 20 anos de experiência
+* empresa liderada por mulheres
+* atendimento humanizado
+* foco na autoestima feminina
+* ambiente acolhedor
+
+Adicionar espaço para foto da proprietária ou equipe.
+
+=========================
+SEÇÃO 3 - SERVIÇOS
+==================
+
+Criar cards modernos.
+
+Cada serviço deve possuir:
+
+* imagem
+* título
+* descrição curta
+* botão para WhatsApp
+
+Serviços:
+
+Loiros e Mechas
+
+Coloração
+
+Selagem Capilar
+
+Tratamentos Reconstrutores
+
+Cortes Femininos
+
+Escovas
+
+Design de Sobrancelhas
+
+Manicure e Pedicure
+
+Ao clicar em qualquer botão:
+
+Abrir WhatsApp com a mensagem:
+
+"Olá! Vim pelo site do Salão Ni Hair e gostaria de agendar um horário. Poderiam me informar os horários disponíveis?"
+
+=========================
+SEÇÃO 4 - GALERIA
+=================
+
+Criar galeria moderna.
+
+Preparar categorias:
+
+* Loiros
+* Mechas
+* Luzes
+* Cortes
+* Transformações
+* Ambiente
+
+As imagens devem abrir em visualização ampliada.
+
+Utilizar animações elegantes.
+
+Permitir expansão futura da galeria sem alterar a estrutura.
+
+=========================
+SEÇÃO 5 - DIFERENCIAIS
+======================
+
+Criar área com ícones modernos.
+
+Exibir:
+
+20+ anos de experiência
+
+Especialistas em Loiros
+
+Atendimento Personalizado
+
+Wi-Fi Gratuito
+
+Espaço Acessível
+
+Ambiente Acolhedor
+
+Técnicas Atualizadas
+
+Agendamento Facilitado
+
+=========================
+SEÇÃO 6 - DEPOIMENTOS
+=====================
+
+Destacar a excelente reputação local.
+
+Exibir:
+
+★★★★★
+
+"O melhor salão de Pontal com boas profissionais, ótimo espaço e localização."
+
+★★★★★
+
+"Maravilhoso! Um atendimento de primeira e o pessoal é muito atencioso, adorei o meu corte."
+
+★★★★★
+
+"Salão aconchegante e as meninas são maravilhosas."
+
+Destacar nota 4.7.
+
+=========================
+SEÇÃO 7 - CHAMADA PARA AGENDAMENTO
+==================================
+
+Criar uma seção visualmente forte.
+
+Título:
+
+Pronta para transformar seu visual?
+
+Texto:
+
+Nossa equipe está pronta para cuidar de você.
+
+Botão grande:
+
+Agendar pelo WhatsApp
+
+Mensagem automática:
+
+"Olá! Vim pelo site do Salão Ni Hair e gostaria de agendar um horário."
+
+=========================
+SEÇÃO 8 - LOCALIZAÇÃO
+=====================
+
+Exibir:
+
+Endereço completo
+
+Horários de funcionamento
+
+Mapa incorporado
+
+Botões:
+
+Abrir no Google Maps
+
+Agendar pelo WhatsApp
+
+=========================
+SEÇÃO 9 - RODAPÉ
+================
+
+Exibir:
+
+Logo
+
+Instagram
+
+WhatsApp
+
+Endereço
+
+Horários
+
+Direitos reservados
+
+Botão voltar ao topo
+
+=========================
+WHATSAPP FLUTUANTE
+==================
+
+Criar botão flutuante visível em todas as páginas.
+
+Sempre fixado no canto inferior direito.
+
+Mensagem automática:
+
+"Olá! Vim pelo site do Salão Ni Hair e gostaria de mais informações sobre os serviços."
+
+=========================
+SEO
+===
+
+Otimizar para buscas locais.
+
+Palavras-chave:
+
+salão de beleza em Pontal do Paraná
+
+cabeleireira em Pontal do Paraná
+
+loiros em Pontal do Paraná
+
+mechas em Pontal do Paraná
+
+luzes em Pontal do Paraná
+
+tratamento capilar em Pontal do Paraná
+
+selagem capilar em Pontal do Paraná
+
+salão especializado em loiros
+
+Configurar:
+
+Meta Title
+
+Meta Description
+
+Open Graph
+
+Favicon
+
+Schema Local Business
+
+=========================
+ARQUIVOS VISUAIS
+================
+
+O logotipo oficial será enviado posteriormente.
+
+Também serão enviados posteriormente:
+
+* fotos do ambiente
+* fotos da equipe
+* fotos dos serviços
+* fotos de antes e depois
+* vídeos institucionais
+* vídeos dos procedimentos
+
+Preparar o projeto para receber esses arquivos facilmente.
+
+Enquanto os arquivos definitivos não forem enviados, utilizar placeholders elegantes.
+
+O logotipo deve poder ser substituído facilmente por um único arquivo.
+
+Todas as áreas de mídia devem estar prontas para receber conteúdo futuro sem necessidade de reestruturação do código.
+
+=========================
+IMPORTANTE
+==========
+
+NÃO utilizar:
+
+* API
+* banco de dados
+* login
+* cadastro
+* painel administrativo
+* sistema de reservas
+* autenticação
+* backend
+
+O site deve funcionar integralmente como um site institucional premium focado em conversão para WhatsApp.
+
+Gerar código limpo, profissional, escalável e pronto para publicação no GitHub e Vercel.
