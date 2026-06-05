@@ -1,0 +1,7 @@
+{
+  "installCommand": "pnpm install --filter @workspace/ni-hair",
+  "buildCommand": "pnpm --filter @workspace/ni-hair run build",
+  "outputDirectory": "artifacts/ni-hair/dist",
+  "framework": null,
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
