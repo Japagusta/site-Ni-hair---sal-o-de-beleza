@@ -1,5 +1,5 @@
 {
-  "installCommand": "pnpm install --filter @workspace/ni-hair",
+  "installCommand": "pnpm install --filter @workspace/ni-hair --no-frozen-lockfile",
   "buildCommand": "pnpm --filter @workspace/ni-hair run build",
   "outputDirectory": "artifacts/ni-hair/dist",
   "framework": null,
