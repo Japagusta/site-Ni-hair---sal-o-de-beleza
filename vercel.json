@@ -1,5 +1,5 @@
 {
-  "installCommand": "cd artifacts/ni-hair && npm install --legacy-peer-deps",
+  "installCommand": "cd artifacts/ni-hair && npm install --legacy-peer-deps --include=dev",
   "buildCommand": "cd artifacts/ni-hair && npm run build",
   "outputDirectory": "artifacts/ni-hair/dist",
   "framework": null,
