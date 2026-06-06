@@ -1,4 +1,5 @@
 {
+  "installCommand": "echo skip",
   "buildCommand": "cd artifacts/ni-hair && npm install --legacy-peer-deps && node_modules/.bin/vite build --config vite.config.ts",
   "outputDirectory": "artifacts/ni-hair/dist",
   "framework": null,
