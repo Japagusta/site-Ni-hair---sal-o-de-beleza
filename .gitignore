@@ -2,6 +2,7 @@
 
 # compiled output
 dist
+!artifacts/ni-hair/dist
 tmp
 out-tsc
 *.tsbuildinfo

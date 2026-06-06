@@ -1,6 +1,6 @@
 {
-  "installCommand": "cd ../.. && pnpm install --filter @workspace/ni-hair --no-frozen-lockfile",
-  "buildCommand": "cd ../.. && pnpm --filter @workspace/ni-hair run build",
+  "installCommand": "echo done",
+  "buildCommand": "echo done",
   "outputDirectory": "dist",
   "framework": null,
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]

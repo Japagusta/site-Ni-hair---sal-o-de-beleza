@@ -1,0 +1,42 @@
+21:44:59.629 
+ WARN  GET https://registry.npmjs.org/tailwindcss error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:44:59.629 
+ WARN  GET https://registry.npmjs.org/tw-animate-css error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:44:59.629 
+ WARN  GET https://registry.npmjs.org/typescript error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:44:59.630 
+ WARN  GET https://registry.npmjs.org/react error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:44:59.630 
+ WARN  GET https://registry.npmjs.org/react-dom error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:45:09.629 
+ WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-dialog error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.629 
+ WARN  GET https://registry.npmjs.org/@tailwindcss%2Fvite error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.629 
+ WARN  GET https://registry.npmjs.org/@types%2Fnode error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.629 
+ WARN  GET https://registry.npmjs.org/@types%2Freact error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.630 
+ WARN  GET https://registry.npmjs.org/@types%2Freact-dom error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.630 
+ WARN  GET https://registry.npmjs.org/@vitejs%2Fplugin-react error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.630 
+ WARN  GET https://registry.npmjs.org/clsx error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.630 
+ WARN  GET https://registry.npmjs.org/framer-motion error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.631 
+ WARN  GET https://registry.npmjs.org/lucide-react error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.631 
+ WARN  GET https://registry.npmjs.org/react-icons error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.631 
+ WARN  GET https://registry.npmjs.org/tailwind-merge error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.631 
+ WARN  GET https://registry.npmjs.org/tailwindcss error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.631 
+ WARN  GET https://registry.npmjs.org/tw-animate-css error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.632 
+ WARN  GET https://registry.npmjs.org/typescript error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.633 
+ WARN  GET https://registry.npmjs.org/react error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:45:09.633 
+ WARN  GET https://registry.npmjs.org/react-dom error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
