@@ -17,7 +17,11 @@ export default defineConfig({
       "@": path.resolve(__dirname, "src"),
       "@assets": path.resolve(__dirname, "src", "assets"),
     },
+    mainFields: ["module", "main"],
     dedupe: ["react", "react-dom"],
+  },
+  optimizeDeps: {
+    include: ["lucide-react", "react-icons"],
   },
   root: __dirname,
   build: {

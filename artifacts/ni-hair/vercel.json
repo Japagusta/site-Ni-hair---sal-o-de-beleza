@@ -1,6 +1,6 @@
 {
-  "installCommand": "echo skip",
-  "buildCommand": "npm install --legacy-peer-deps && node_modules/.bin/vite build --config vite.config.ts",
+  "installCommand": "cd ../.. && pnpm install --filter @workspace/ni-hair --no-frozen-lockfile",
+  "buildCommand": "cd ../.. && pnpm --filter @workspace/ni-hair run build",
   "outputDirectory": "dist",
   "framework": null,
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
